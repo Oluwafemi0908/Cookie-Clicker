@@ -6,3 +6,5 @@ An addictive Python game where you click to make cookies, upgrade your bakery, a
 - Click to produce cookies
 - Buy upgrades for faster cookie production
 - Simple, yet addictive gameplay
+
+## All these are now automated
