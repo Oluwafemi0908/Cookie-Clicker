@@ -1,2 +1,8 @@
-# Cookie-Clicker
-Get ready for an addictive adventure in cookie-making! 🍪 This Python Cookie Clicker game lets you click your way to sweet, sweet victory. Upgrade your cookie empire, unlock new perks, and watch the cookies pile up. Warning: you may find yourself clicking for hours! ⏳🍪💥
+# 🍪 Cookie Clicker (Python Version)
+
+An addictive Python game where you click to make cookies, upgrade your bakery, and unlock epic bonuses. How many cookies can you make before you hit the "upgrade" button one more time?
+
+## 🚀 Features
+- Click to produce cookies
+- Buy upgrades for faster cookie production
+- Simple, yet addictive gameplay
